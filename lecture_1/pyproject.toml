@@ -1,0 +1,8 @@
+[tool.poetry]
+name = "lecture_1"
+version = "0.1.0"
+description = "Example project with colorama"
+
+[tool.poetry.dependencies]
+python = "^3.13"
+colorama = "^0.4.6"
